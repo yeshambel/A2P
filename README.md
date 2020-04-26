@@ -2,7 +2,7 @@
 # A2P - Automated Application Process
 **Author:** Marc-Antoine Augé
 
-A2P is a a complete online solution to automate the administration of the Application Process of Social Hackers Academy ([see][sha-website]), based on the technologies teached in the Coding School.
+A2P is a complete online solution to automate the administration of the Application Process of Social Hackers Academy ([see][sha-website]), based on the technologies teached in the Coding School.
 
 The project is splitted into three parts:
   - `applicant-frontend`: a website in [React][react] which provides to the applicants a mobile-first website where it's easy to apply and check their progression ;
